@@ -1,10 +1,10 @@
-pick 415f7d3 file1.txt
-squash 803af06 Update file1.txt
-squash f32cbf4 pull test
-squash 3f87a0a squash
-squash 188e560 file2.txt
+s 803af06 Update file1.txt
+s f32cbf4 pull test
+s 3f87a0a squash
+s 188e560 file2.txt
+s bef4e6c squash
 
-# Rebase 1f50c2c..188e560 onto 1f50c2c (5 commands)
+# Rebase 415f7d3..bef4e6c onto 415f7d3 (5 commands)
 #
 # Commands:
 # p, pick <commit> = use commit
