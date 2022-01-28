@@ -5,9 +5,17 @@ but
 i am intested to by interspter
 <<<<<<< HEAD
 but i am is giving money
+<<<<<<< HEAD
 i am begging
 =======
 pleas daddy 
 i want
 new bike
 >>>>>>> cdcacf1 (Update file1.txt)
+=======
+i am beggin
+pleas daddy 
+i want
+new bike
+
+>>>>>>> e3ae003f9caf35d5b96711e3979c0681b3f49d9c
